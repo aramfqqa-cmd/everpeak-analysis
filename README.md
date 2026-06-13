@@ -1,4 +1,4 @@
-# EverPeak Retail Analysis – Sprint 6
+# EverPeak Retail Analysis – Sprint 5
 
 Este repositorio contiene el análisis realizado durante el Sprint 6 del caso EverPeak–SilverBasket.
 
@@ -13,7 +13,7 @@ El dataset `everpeak_retail` incluye 2,000 órdenes de clientes con valores falt
 
 Haz clic en el siguiente botón:
 
-[![Open In Colab](https://colab.research.google.com/drive/1wsp0X5rvD7PBqABeNnWOqHaHC_B0mxgb?usp=sharing)
+https://colab.research.google.com/drive/1wsp0X5rvD7PBqABeNnWOqHaHC_B0mxgb?usp=sharing
 
 O:
 
